@@ -1,0 +1,67 @@
+# Qt project files
+*.user
+*.user.*.props
+*.suo
+*.vcxproj.*
+*.sln
+*.opensdf
+*.sdf
+*.opendb
+*.lock
+*.qmake.stash
+*.qmake.cache
+*.qmake.conf
+
+# Qt generated UI headers
+ui_*.h
+
+# Build output
+build/
+debug/
+release/
+obj/
+out/
+
+# QMake files
+Makefile
+Makefile.*
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeScripts/
+
+# Object script files
+object_script.*
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# IDE files
+*.o
+*.so
+*.dylib
+*.exp
+*.pdb
+*.ilk
+*.res
+*.rc
+*.log
+*.cache
+*.dep
+*.d
+*.lck
+*.lock
+*.pid
+*.tmp
+*.bak
+*.orig
+*.rej
+
+# Other
+*.DS_Store
+Thumbs.db
